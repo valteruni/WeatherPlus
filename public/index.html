@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WeatherPlus</title>
+<script language="javascript">
+function caricaCity(){
+    var city1=document.form.city1.value;
+    if( city1 == ""){
+      alert("inserisci città");
+      return false;
+    }
+    window.location.href="http://localhost:8080/get/"+city1;
+    return true;
+}
+function caricaLogger(){
+    window.location.href="http://localhost:8080/log";
+}
+</script>
+<style type="text/css">
+    body{
+        background-image:url("https://annabelmilke.files.wordpress.com/2013/09/2004sky.jpg");
+        background-repeat:no-repeat;
+        background-size:100%;
+    }
+    h1{
+        font-family:verdana;
+        color:skyblue;
+    }
+    div{
+        text-align:center;
+    }
+    p{
+        color:yellow;
+    }
+    #copyright{
+        position:absolute;
+        bottom:10px;
+        color:brown;
+    }
+</style>
+</head>
+
+<body >
+<div >
+<h1 >WeatherPlus</h1>
+<form name="form" action="" method="" onSubmit="">
+    <p>Vuoi conoscere informazioni sul meteo della tua citt&agrave; e postarle su Google+?</p><br/>
+  <p>Inserisci qui la citt&agrave;:</p><br/>
+  <input type="text" name="city1" >
+  <br>
+</form>
+  <button onclick="return caricaCity();">Invia</button>    <button onclick="return caricaLogger();">Cronologia</button>
+</div>
+
+<div id="copyright">Progetto realizzato da: Matteo C., Valter S., Riccardo V..</div>
+
+</body>
+</html>
