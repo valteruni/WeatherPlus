@@ -8,8 +8,9 @@ Come funziona:
 	La casella di testo permette di inserire il nome della città desiderata.
 	Il primo bottone ("Invia") ci indirizza su un'altra pagina che ci permette di conoscere le informazioni 
 	meteorologiche riguardanti tale città e postarle su Google+ tramite il bottone "Posta su Google+".
-	Proseguendo, dopo esserci autenticati con l'account di Google, verrà postato il messaggio e si verrà reindirizzati in 
-	una pagina  di conferma dell'avvenuta condivisione dove sarà possibile accedere al post su Google+.
+	Proseguendo, dopo esserci autenticati con l'account di Google, verrà postato il messaggio e si verrà 
+	reindirizzati in una pagina  di conferma dell'avvenuta condivisione dove sarà possibile accedere al post 
+	su Google+.
 
 	Il secondo bottone ("Cronologia") indirizzandoci su un'altra pagina, da la possibilità di sapere la storia 
 	di tutte le richieste effettuate dagli utenti.
