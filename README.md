@@ -6,13 +6,13 @@ Come funziona:
 	Quando si accede all'homepage dell'applicazione si hanno davanti una casella di testo e due pulsanti.
 	
 	La casella di testo permette di inserire il nome della città desiderata.
-	Il primo bottone ("Invia") ci indirizza su un'altra pagina che ci permette di conoscere le informazioni meteorologiche 
-	riguardanti tale città e postarle su Google+ tramite il bottone "Posta su Google+".
+	Il primo bottone ("Invia") ci indirizza su un'altra pagina che ci permette di conoscere le informazioni 
+	meteorologiche riguardanti tale città e postarle su Google+ tramite il bottone "Posta su Google+".
 	Proseguendo, dopo esserci autenticati con l'account di Google, verrà postato il messaggio e si verrà reindirizzati in 
 	una pagina  di conferma dell'avvenuta condivisione dove sarà possibile accedere al post su Google+.
 
-	Il secondo bottone ("Cronologia") indirizzandoci su un'altra pagina, da la possibilità di sapere la storia di tutte le 
-	richieste effettuate dagli utenti.
+	Il secondo bottone ("Cronologia") indirizzandoci su un'altra pagina, da la possibilità di sapere la storia 
+	di tutte le richieste effettuate dagli utenti.
 
 Servizi REST usati:
 	Per questa applicazione sono stati utilizzati due servizi REST:
