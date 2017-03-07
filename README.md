@@ -12,7 +12,7 @@ La casella di testo permette di inserire il nome della città desiderata.
 	reindirizzati in una pagina  di conferma dell'avvenuta condivisione dove sarà possibile accedere al post 
 	su Google+.
 
-	Il secondo bottone ("Cronologia") indirizzandoci su un'altra pagina, da la possibilità di sapere la storia 
+Il secondo bottone ("Cronologia") indirizzandoci su un'altra pagina, da la possibilità di sapere la storia 
 	di tutte le richieste effettuate dagli utenti.
 
 Servizi REST usati:
