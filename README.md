@@ -35,3 +35,5 @@ Servizio di messaggeria asincrona:
 	Legge i messaggi presenti nella coda e ciascun messaggio letto viene scritto sul file SVLogger.log, utile all'applicazione per 
   conoscere la cronologia delle ricerche effettuate.
 	Per ulteriori informazioni sul servizio riferirsi al seguente link: https://www.rabbitmq.com
+	
+Esito finale : 15/15 
